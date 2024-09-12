@@ -1,1 +1,1 @@
-import sosta
+import king
